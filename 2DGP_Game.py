@@ -41,3 +41,6 @@ while Game_Strat:
     delay(0.01)
     update_canvas()
 close_canvas()
+
+
+#test
